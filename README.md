@@ -20,4 +20,6 @@ My name is Dmitry, I'm web developer.
 ![git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git)
 ![figma](https://img.shields.io/badge/figma-151515?style=for-the-badge&logo=figma)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosdmitry&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+----------------
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosdmitry&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
