@@ -18,7 +18,3 @@ My name is Dmitry, I'm web developer.
 ![git](https://img.shields.io/badge/git-151515?style=for-the-badge&logo=git)
 ![react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosdmitry&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosdmitry&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
