@@ -2,7 +2,7 @@
 
 My name is Dmitry, I'm web developer.
 
-- 🔭 I’m currently studing at [Yandex.Praktikum](https://praktikum.yandex.ru/web) web-development school
+- 🔭 I’m currently studying at [Yandex.Praktikum](https://praktikum.yandex.ru/web) web-development school
 - :computer: I want to code a lot
 - :shower: I want my code to be nice and clean and I try to do all my best
 - :eyes: I'm looking for a job now!
@@ -12,7 +12,7 @@ My name is Dmitry, I'm web developer.
 
 ![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badgehttps://github.com/nosdmitry&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/SASS-151515?style=for-the-badge&logo=SASS)
 ![react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react)
 ![Webpack](https://img.shields.io/badge/Webpack-151515?style=for-the-badge&logo=Webpack)
