@@ -12,7 +12,7 @@ My name is Dmitry, I'm web developer.
 
 ![HTML5](https://img.shields.io/badge/HTML5-151515?style=for-the-badge&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badgehttps://github.com/nosdmitry&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/SASS-151515?style=for-the-badge&logo=SASS)
 ![react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react)
 ![Webpack](https://img.shields.io/badge/Webpack-151515?style=for-the-badge&logo=Webpack)
