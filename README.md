@@ -24,3 +24,5 @@ My name is Dmitry, I'm web developer.
 ----------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosdmitry&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
