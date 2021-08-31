@@ -15,6 +15,8 @@ My name is Dmitry, I'm web developer.
 ![JavaScript](https://img.shields.io/badge/JavaScript-151515?style=for-the-badge&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/SASS-151515?style=for-the-badge&logo=SASS)
 ![react](https://img.shields.io/badge/react-151515?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/vue-151515?style=for-the-badge&logo=vuedotjs)
+![NuxtJS](https://img.shields.io/badge/Nuxt-151515?style=for-the-badge&logo=nuxt.js)
 ![Webpack](https://img.shields.io/badge/Webpack-151515?style=for-the-badge&logo=Webpack)
 ![php](https://img.shields.io/badge/php-151515?style=for-the-badge&logo=php)
 ![mysql](https://img.shields.io/badge/mysql-151515?style=for-the-badge&logo=mysql)
@@ -24,5 +26,4 @@ My name is Dmitry, I'm web developer.
 ----------------
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nosdmitry&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
