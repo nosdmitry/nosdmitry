@@ -2,7 +2,6 @@
 
 My name is Dmitry, I'm web developer.
 
-- 🔭 I’m currently studying at [Yandex.Praktikum](https://praktikum.yandex.ru/web) web-development school
 - :computer: I want to code a lot
 - :shower: I want my code to be nice and clean and I try to do all my best
 - :eyes: I'm looking for a job now!
